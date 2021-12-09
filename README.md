@@ -1,2 +1,2 @@
-# Desafio-Meu-Primeiro-Reposit-rio-na-DIO
+# Desafio-Meu-Primeiro-Repositorio-na-DIO
 Anotações -Comandos básicos no GIT
