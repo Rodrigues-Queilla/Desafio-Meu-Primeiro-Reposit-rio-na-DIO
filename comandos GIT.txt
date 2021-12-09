@@ -1,1 +1,5 @@
 Comandos básicos no GIT:
+cd- Mudar/sair da pasta
+dir- Listar pastas
+mkdir ou echo hello> nome.txt- Criar pastas/arquivos
+del nome ou rmdir nome /s/q- Deletar pastas/arquivos
